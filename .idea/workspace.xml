@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01ab0f05-3747-46ca-ab82-d42fb735ac28" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDK-Lesson3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanie1/Kalkulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanie1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanie2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanie3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanie3/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/EmployeeDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +38,26 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Хозяин/IdeaProjects/JDK-Lesson3/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.zadanie3.Main">
+  <component name="RunManager" selected="Application.lesson4.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zadanie1.Main" />
       <module name="JDK-Lesson3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="zadanie1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4.Main" />
+      <module name="JDK-Lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,6 +93,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lesson4.Main" />
         <item itemvalue="Application.zadanie3.Main" />
         <item itemvalue="Application.zadanie2.Main" />
         <item itemvalue="Application.Main" />
