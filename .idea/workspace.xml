@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01ab0f05-3747-46ca-ab82-d42fb735ac28" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson4/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/EmployeeDirectory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Fork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Philosopher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Сondition.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,14 +33,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Хозяин/IdeaProjects/JDK-Lesson3/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Хозяин/IdeaProjects/JDK-Lesson3/src",
+    "onboarding.tips.debug.path": "C:/Users/Хозяин/IdeaProjects/JDK-Lesson3/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.lesson4.Main">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Хозяин\IdeaProjects\JDK-Lesson3\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.lesson5.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zadanie1.Main" />
       <module name="JDK-Lesson3" />
@@ -58,6 +66,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson5.Main" />
+      <module name="JDK-Lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lesson5.Main" />
         <item itemvalue="Application.lesson4.Main" />
         <item itemvalue="Application.zadanie3.Main" />
         <item itemvalue="Application.zadanie2.Main" />
